@@ -1,2 +1,4 @@
-# LatihanOOP-Java-Kuliah-20-TI-PA
-Latihan tugas Mata Kuliah Object Oriented Programming Java
+# Kuliah_Java_Object_Oriented
+Latihan/tugas Mata Kuliah Object Oriented Programming 
+Using Java Languanges
+
