@@ -1,0 +1,4 @@
+Acoustic,6,Mahogany,TY-157SE,Soft Brown,15999900.00
+Electric,6,Mahogany,TY-1000K,Carbon Fiber,9270000.00
+Acoustic,6,RedWood,TY-867S,Red Wood,6788000.00
+Acoustic,6,Mahogany,TY-102E,White Matte,6999900.00

@@ -1,0 +1,3 @@
+Electric,6,Mahogany,IB-1999,Soft Brown,5999900.00
+Classic,6,Mahogany,IB-1500,Classic Brown, 10900000.00
+Acoustic,6,Carbon,IB-2020,Milk Brown,6900000.00

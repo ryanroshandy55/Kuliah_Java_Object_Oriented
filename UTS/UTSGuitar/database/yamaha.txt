@@ -1,0 +1,4 @@
+Acoustic,6,Mahogany,F-310,Light Brown,2400000.00
+Electric,6,C,FE-1000,Black,4900000.00
+Ukkulele,4,Mahogany,FU-605,Brown,2988000.00
+Classic,6,Mahogany,F-797C,Brown Wood,4999900.00
